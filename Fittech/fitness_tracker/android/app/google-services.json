@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1035626156534",
+    "project_id": "erkba-app",
+    "storage_bucket": "erkba-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035626156534:android:abe0aaceeaf9b9453fb7d7",
+        "android_client_info": {
+          "package_name": "com.example.fitness_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035626156534-85g8burt1n79es1tts8ejbrn2o1d9gb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitness_tracker",
+            "certificate_hash": "9aa8fbb1c86f3c6e204f79fc37b7217320b8a5de"
+          }
+        },
+        {
+          "client_id": "1035626156534-4a366jjnkjujrqitjmepaadrodddbs5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTTIJTLIe_QOm2EsT5pj1iFcR7a1zceM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035626156534-00k0bk582mnd3hpn934l6juf19gvh97k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035626156534-60ol642sbg282r17vmp5j3i3er33mbjs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitnessTracker.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
